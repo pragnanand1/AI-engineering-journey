@@ -25,6 +25,9 @@ def get_match_message(candidate, required_skill, required_experience):
 def is_major(candidate):
     return True
 
+def is_male(candidate):
+    return True
+
 if __name__ == "__main__":
     print("i'm running directly!")
         
